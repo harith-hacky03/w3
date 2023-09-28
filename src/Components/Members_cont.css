@@ -1,0 +1,17 @@
+.Members_cont
+{
+    width: 80vw;
+    position: relative;
+    left: 10vw;
+    background-color: black;
+    color:white;
+}
+
+.centre
+{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    flex-direction: column;
+    
+}
